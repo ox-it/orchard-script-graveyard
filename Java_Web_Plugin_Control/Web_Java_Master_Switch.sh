@@ -22,11 +22,7 @@
 # it and/or modify it under the terms of the GNU 
 # General Public License version 3 as published by 
 # the Free Software Foundation.
-#
-# $HeadURL: https://svn.oucs.ox.ac.uk/groups/nsms/src/n/nsms-mmp-scripts/trunk/Web_Java_Master_Switch.sh $
-# $LastChangedRevision: 18067 $
-# $LastChangedDate: 2015-09-07 13:46:31 +0100 (Mon, 07 Sep 2015) $
-# $LastChangedBy: oucs0089 $
+
 
 
 
