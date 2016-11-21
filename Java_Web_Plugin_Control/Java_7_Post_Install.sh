@@ -14,10 +14,6 @@
 # General Public License version 3 as published by 
 # the Free Software Foundation.
 #
-# $HeadURL: https://svn.oucs.ox.ac.uk/groups/nsms/src/n/nsms-mmp-scripts/trunk/Java_7_Post_Install.sh $
-# $LastChangedRevision: 18067 $
-# $LastChangedDate: 2015-09-07 13:46:31 +0100 (Mon, 07 Sep 2015) $
-# $LastChangedBy: oucs0089 $
 
 
 PLUGINS_DIR='/Library/Internet Plug-Ins'
