@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_extension_attribute>
+  <id>57</id>
+  <name>Config: Java Web Plugin Access</name>
+  <description>Used to indicate whether a computer is permitted to have the Java web plugin active.</description>
+  <data_type>String</data_type>
+  <input_type>
+    <type>Pop-up Menu</type>
+    <popup_choices>
+      <choice>-Not Allowed-</choice>
+      <choice>Allowed</choice>
+    </popup_choices>
+  </input_type>
+  <inventory_display>General</inventory_display>
+  <recon_display>Computer</recon_display>
+</computer_extension_attribute>
